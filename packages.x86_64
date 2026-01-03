@@ -134,7 +134,7 @@ openssh
 os-prober
 # partclone
 parted
-paru-bin
+paru
 # partimage
 # pcsclite
 pv
@@ -157,7 +157,7 @@ stratmacs-config
 stratos-calamares-config
 # stratos-kitty-config
 stratos-mako-config
-stratos-starship-hyprland-config
+stratos-starship-config
 stratos-wallpapers
 sudo
 syslinux
@@ -194,3 +194,4 @@ gnome-shell-extension-burn-my-windows-git
 gnome-shell-extension-forge-git
 gnome-shell-extension-space-bar-git
 gnome-shell-extension-dash-to-dock
+zen-browser-bin
