@@ -123,6 +123,8 @@ nbd
 # ndisc6
 neovim
 networkmanager
+noto-fonts-emoji
+noto-fonts
 nfs-utils
 # nilfs-utils
 npm
@@ -168,6 +170,9 @@ testdisk
 # tpm2-tools
 # tpm2-tss
 ttf-jetbrains-mono-nerd
+ttf-font-awesome
+ttf-liberation
+ttf-dejavu
 # udftools
 usb_modeswitch
 usbmuxd
